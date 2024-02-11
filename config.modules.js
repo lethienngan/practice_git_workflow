@@ -1,0 +1,1 @@
+console.log("Setup some config");
